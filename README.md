@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=1000&color=998750&vCenter=true&center=true&multiline=true&repeat=false&width=1300&height=140&lines=hello+hello;I'm+Maksim%2C+a+beginner+.net+developer+%E2%9C%A7" alt="Typing SVG" width="70%" /></a>
 <br>
 <br>
-<img src="https://pic.rutubelist.ru/video/b6/33/b633702bca3bc5c652fd3c37eb8d17c1.jpg" width="50%" />
+<img src="https://steamuserimages-a.akamaihd.net/ugc/929300849226077615/E5DDB9609D5CC455AD775EB27AF450C75C1F63B6/?imw=512&amp;imh=282&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"></img>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=luckyDucky3&show_icons=true&title_color=BCBCBC&icon_color=BCBCBC" alt="luckyDucky3 Github Stats"></img>
 
