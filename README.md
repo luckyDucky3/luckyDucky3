@@ -1,14 +1,14 @@
-<div align="left">
-<img src="https://i.pinimg.com/736x/ff/f0/d4/fff0d43112419bf114bf5d1be6bbdbe1.jpg" width="25%" align="right"/>
+<div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=1000&color=4944A6&vCenter=true&multiline=true&repeat=false&width=1300&height=140&lines=hello+hello;I'm+Maksim%2C+a+beginner+.net+developer+%E2%9C%A7" alt="Typing SVG" width="70%" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=2000&pause=1000&color=998750&vCenter=true&center=true&multiline=true&repeat=false&width=1300&height=140&lines=hello+hello;I'm+Maksim%2C+a+beginner+.net+developer+%E2%9C%A7" alt="Typing SVG" width="70%" /></a>
 <br>
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=luckyDucky3&show_icons=true" alt="luckyDucky3 Github Stats"></img>
-
+<img src="https://pic.rutubelist.ru/video/b6/33/b633702bca3bc5c652fd3c37eb8d17c1.jpg" width="50%" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=luckyDucky3&show_icons=true&title_color=BCBCBC&icon_color=BCBCBC" alt="luckyDucky3 Github Stats"></img>
 
 ### :hammer_and_wrench: Languages and Tools :
-<div align="left">
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
